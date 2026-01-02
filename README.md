@@ -168,7 +168,7 @@ https://opensource.org/licenses/MIT
 
 ## 👤 Author
 
-**Abhay Kumar Saini**
+**Chaudhary Yadupal Singh**
 
 🔹 GitHub: https://yadupalchaudhary0
 
